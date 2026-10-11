@@ -46,17 +46,10 @@ Enabled through advanced tokenization and google translator api.
 ![Suggestions in English](images/Suggestion_english.png)  
 *Example of health suggestions provided in English.*
 
-### Suggestions in Gujarati
-![Suggestions in Gujarati](images/Suggestion_gujarati.png)  
-*Example of health suggestions provided in Gujarati.*
-
 ### Health Tip in English
 ![Health Tip in English](images/tip_english.png)  
 *Example of a health tip provided in English.*
 
-### Health Tip in Korean
-![Health Tip in Korean](images/tip_korean.png)  
-*Example of a health tip provided in Korean.*
 
 🌍 Multilingual Support
 
